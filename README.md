@@ -1,4 +1,4 @@
-- **<div class="text-blue mb-2"><h1>PROJECT: Full Stack To-do web app using AWS Amplify </h1></div>**
+**<div class="text-blue mb-2"><h1>PROJECT: Full Stack To-do web app using AWS Amplify </h1></div>**
 
 **Website address**: https://dev.d3sq4y9dwj3lwg.amplifyapp.com/ 
 
@@ -10,9 +10,9 @@ Complete tutorial from Amplify official documentation: https://docs.amplify.aws/
 Amplify official page: https://docs.amplify.aws/ 
 
 Extra resources:
-Amplify APIs:https://aws-amplify.github.io/amplify-js/api/classes/authclass.html 
+- Amplify APIs:https://aws-amplify.github.io/amplify-js/api/classes/authclass.html 
 
-Amplify CLI: https://docs.amplify.aws/cli  
+- Amplify CLI: https://docs.amplify.aws/cli  
 
 # Getting Started with Create React App
 
