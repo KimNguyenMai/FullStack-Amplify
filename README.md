@@ -1,4 +1,4 @@
-<h1>PROJECT: Full Stack To-do web app using AWS Amplify </h1>
+<h1>PROJECT: Full Stack Serverless To-do web app using AWS Amplify </h1>
 
 **Website address**: https://www.kim-ng.click
 
