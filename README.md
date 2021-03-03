@@ -1,10 +1,17 @@
-#PROJECT: Full Stack To-do web app using AWS Amplify
+<strong>PROJECT: Full Stack To-do web app using AWS Amplify </strong>
+<strong>Website address</strong>: https://dev.d3sq4y9dwj3lwg.amplifyapp.com/ 
 
-#Tech spec: React, GraphQL APIs, AWS CloudFront, DynamoDB, Amazon Cognito (for authentication), Amplify Console (for hosting), Amazon S3 (meta data, project zips)
 
-#complete tutorial from Amplify official documentation: https://docs.amplify.aws/start/getting-started/installation/q/integration/react
+<strong>Tech spec</strong>: React, GraphQL APIs, AWS CloudFront, DynamoDB, Amazon Cognito (for authentication), Amplify Console (for hosting), Amazon S3 (meta data, project zips)
 
-#Amplify official page: https://docs.amplify.aws/ 
+Complete tutorial from Amplify official documentation: https://docs.amplify.aws/start/getting-started/installation/q/integration/react
+
+Amplify official page: https://docs.amplify.aws/ 
+
+Extra resources:
+Amplify APIs:https://aws-amplify.github.io/amplify-js/api/classes/authclass.html 
+
+Amplify CLI: https://docs.amplify.aws/cli  
 
 # Getting Started with Create React App
 
