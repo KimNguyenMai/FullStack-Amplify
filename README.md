@@ -1,4 +1,4 @@
-<strong><h1 class="text-blue mb-2">PROJECT: Full Stack To-do web app using AWS Amplify </h1></strong>
+**<h1 class="text-blue mb-2">PROJECT: Full Stack To-do web app using AWS Amplify </h1>**
 <strong>Website address</strong>: https://dev.d3sq4y9dwj3lwg.amplifyapp.com/ 
 
 
