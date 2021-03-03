@@ -1,6 +1,7 @@
 <h1>PROJECT: Full Stack To-do web app using AWS Amplify </h1>
 
-**Website address**: https://dev.d3sq4y9dwj3lwg.amplifyapp.com/ 
+**Website address**: https://www.kim-ng.click
+
 
 
 **Tech spec**: React, GraphQL APIs, AWS CloudFront, DynamoDB, Amazon Cognito (for authentication), Amplify Console (for hosting), Amazon S3 (meta data, project zips)
