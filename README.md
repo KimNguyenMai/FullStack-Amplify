@@ -1,8 +1,9 @@
-**<h1 class="text-blue mb-2">PROJECT: Full Stack To-do web app using AWS Amplify </h1>**
-<strong>Website address</strong>: https://dev.d3sq4y9dwj3lwg.amplifyapp.com/ 
+**<div class="text-blue mb-2"><h1>PROJECT: Full Stack To-do web app using AWS Amplify </h1></div>**
+
+**Website address**: https://dev.d3sq4y9dwj3lwg.amplifyapp.com/ 
 
 
-<strong>Tech spec</strong>: React, GraphQL APIs, AWS CloudFront, DynamoDB, Amazon Cognito (for authentication), Amplify Console (for hosting), Amazon S3 (meta data, project zips)
+**Tech spec**: React, GraphQL APIs, AWS CloudFront, DynamoDB, Amazon Cognito (for authentication), Amplify Console (for hosting), Amazon S3 (meta data, project zips)
 
 Complete tutorial from Amplify official documentation: https://docs.amplify.aws/start/getting-started/installation/q/integration/react
 
