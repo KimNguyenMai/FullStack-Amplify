@@ -1,10 +1,10 @@
 <h1>PROJECT: Full Stack Serverless To-do web app using AWS Amplify </h1>
 
-**Website address**: https://www.kim-ng.click
+**Website address**: https://www.fullstack.kim-ng.click
 
 
 
-**Tech spec**: React, GraphQL APIs, AWS CloudFront, DynamoDB, Amazon Cognito (for authentication), Amplify Console (for hosting), Amazon S3 (meta data, project zips)
+**Tech spec**: React, GraphQL APIs, AWS CloudFormation, DynamoDB, Amazon Cognito (for authentication), Amplify Console (for hosting), Amazon S3 (meta data, project zips)
 
 Complete tutorial from Amplify official documentation: https://docs.amplify.aws/start/getting-started/installation/q/integration/react
 
